@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Keyboard xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:keyWidth="10%p"
+    app:keyHeight="6%p"
+    app:horizontalGap="5dp"
+    app:verticalGap="9dp">
+
+    <Row>
+        <Key app:keyOutputText="&#x1F600;" app:keyLabel="&#x1F600;" app:keyMode="2"/> <!-- 😀 -->
+        <Key app:keyOutputText="&#x1F603;" app:keyLabel="&#x1F603;" app:keyMode="2"/> <!-- 😃 -->
+        <Key app:keyOutputText="&#x1F604;" app:keyLabel="&#x1F604;" app:keyMode="2"/> <!-- 😄 -->
+        <Key app:keyOutputText="&#x1F601;" app:keyLabel="&#x1F601;" app:keyMode="2"/> <!-- 😁 -->
+        <Key app:keyOutputText="&#x1F606;" app:keyLabel="&#x1F606;" app:keyMode="2"/> <!-- 😆 -->
+        <Key app:keyOutputText="&#x1F605;" app:keyLabel="&#x1F605;" app:keyMode="2"/> <!-- 😅 -->
+        <Key app:keyOutputText="&#x1F923;" app:keyLabel="&#x1F923;" app:keyMode="2"/> <!-- 🤣 -->
+        <Key app:keyOutputText="&#x1F602;" app:keyLabel="&#x1F602;" app:keyMode="2"/> <!-- 😂 -->
+        <Key app:keyOutputText="&#x1F642;" app:keyLabel="&#x1F642;" app:keyMode="2"/> <!-- 🙂 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F643;" app:keyMode="2"/> <!-- 🙃 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1FAE0;" app:keyMode="2"/> <!-- 🫠 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F609;" app:keyMode="2"/> <!-- 😉 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F60A;" app:keyMode="2"/> <!-- 😊 -->
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F607;" app:keyMode="2"/> <!-- 😇 -->
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F970;" app:keyMode="2"/> <!-- 🥰 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1F60D;" app:keyMode="2"/> <!-- 😍 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F929;" app:keyMode="2"/> <!-- 🤩 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F618;" app:keyMode="2"/> <!-- 😘 -->
+
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F617;" app:keyMode="2"/> <!-- 😗 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F600;" app:keyLabel="&#x1F600;" app:keyMode="2"/> <!-- 😀 -->
+        <Key app:keyOutputText="&#x1F603;" app:keyLabel="&#x1F603;" app:keyMode="2"/> <!-- 😃 -->
+        <Key app:keyOutputText="&#x1F604;" app:keyLabel="&#x1F604;" app:keyMode="2"/> <!-- 😄 -->
+        <Key app:keyOutputText="&#x1F601;" app:keyLabel="&#x1F601;" app:keyMode="2"/> <!-- 😁 -->
+        <Key app:keyOutputText="&#x1F606;" app:keyLabel="&#x1F606;" app:keyMode="2"/> <!-- 😆 -->
+        <Key app:keyOutputText="&#x1F605;" app:keyLabel="&#x1F605;" app:keyMode="2"/> <!-- 😅 -->
+        <Key app:keyOutputText="&#x1F923;" app:keyLabel="&#x1F923;" app:keyMode="2"/> <!-- 🤣 -->
+        <Key app:keyOutputText="&#x1F602;" app:keyLabel="&#x1F602;" app:keyMode="2"/> <!-- 😂 -->
+        <Key app:keyOutputText="&#x1F642;" app:keyLabel="&#x1F642;" app:keyMode="2"/> <!-- 🙂 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F643;" app:keyMode="2"/> <!-- 🙃 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1FAE0;" app:keyMode="2"/> <!-- 🫠 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F609;" app:keyMode="2"/> <!-- 😉 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F60A;" app:keyMode="2"/> <!-- 😊 -->
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F607;" app:keyMode="2"/> <!-- 😇 -->
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F970;" app:keyMode="2"/> <!-- 🥰 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1F60D;" app:keyMode="2"/> <!-- 😍 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F929;" app:keyMode="2"/> <!-- 🤩 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F618;" app:keyMode="2"/> <!-- 😘 -->
+
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F600;" app:keyLabel="&#x1F600;" app:keyMode="2"/> <!-- 😀 -->
+        <Key app:keyOutputText="&#x1F603;" app:keyLabel="&#x1F603;" app:keyMode="2"/> <!-- 😃 -->
+        <Key app:keyOutputText="&#x1F604;" app:keyLabel="&#x1F604;" app:keyMode="2"/> <!-- 😄 -->
+        <Key app:keyOutputText="&#x1F601;" app:keyLabel="&#x1F601;" app:keyMode="2"/> <!-- 😁 -->
+        <Key app:keyOutputText="&#x1F606;" app:keyLabel="&#x1F606;" app:keyMode="2"/> <!-- 😆 -->
+        <Key app:keyOutputText="&#x1F605;" app:keyLabel="&#x1F605;" app:keyMode="2"/> <!-- 😅 -->
+        <Key app:keyOutputText="&#x1F923;" app:keyLabel="&#x1F923;" app:keyMode="2"/> <!-- 🤣 -->
+        <Key app:keyOutputText="&#x1F602;" app:keyLabel="&#x1F602;" app:keyMode="2"/> <!-- 😂 -->
+        <Key app:keyOutputText="&#x1F642;" app:keyLabel="&#x1F642;" app:keyMode="2"/> <!-- 🙂 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F643;" app:keyMode="2"/> <!-- 🙃 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1FAE0;" app:keyMode="2"/> <!-- 🫠 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F609;" app:keyMode="2"/> <!-- 😉 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F60A;" app:keyMode="2"/> <!-- 😊 -->
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F607;" app:keyMode="2"/> <!-- 😇 -->
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F970;" app:keyMode="2"/> <!-- 🥰 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1F60D;" app:keyMode="2"/> <!-- 😍 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F929;" app:keyMode="2"/> <!-- 🤩 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F618;" app:keyMode="2"/> <!-- 😘 -->
+
+    </Row>
+    <Row>
+        <Key app:keyOutputText="&#x1F600;" app:keyLabel="&#x1F600;" app:keyMode="2"/> <!-- 😀 -->
+        <Key app:keyOutputText="&#x1F603;" app:keyLabel="&#x1F603;" app:keyMode="2"/> <!-- 😃 -->
+        <Key app:keyOutputText="&#x1F604;" app:keyLabel="&#x1F604;" app:keyMode="2"/> <!-- 😄 -->
+        <Key app:keyOutputText="&#x1F601;" app:keyLabel="&#x1F601;" app:keyMode="2"/> <!-- 😁 -->
+        <Key app:keyOutputText="&#x1F606;" app:keyLabel="&#x1F606;" app:keyMode="2"/> <!-- 😆 -->
+        <Key app:keyOutputText="&#x1F605;" app:keyLabel="&#x1F605;" app:keyMode="2"/> <!-- 😅 -->
+        <Key app:keyOutputText="&#x1F923;" app:keyLabel="&#x1F923;" app:keyMode="2"/> <!-- 🤣 -->
+        <Key app:keyOutputText="&#x1F602;" app:keyLabel="&#x1F602;" app:keyMode="2"/> <!-- 😂 -->
+        <Key app:keyOutputText="&#x1F642;" app:keyLabel="&#x1F642;" app:keyMode="2"/> <!-- 🙂 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F643;" app:keyMode="2"/> <!-- 🙃 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1FAE0;" app:keyMode="2"/> <!-- 🫠 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F609;" app:keyMode="2"/> <!-- 😉 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F60A;" app:keyMode="2"/> <!-- 😊 -->
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F607;" app:keyMode="2"/> <!-- 😇 -->
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F970;" app:keyMode="2"/> <!-- 🥰 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1F60D;" app:keyMode="2"/> <!-- 😍 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F929;" app:keyMode="2"/> <!-- 🤩 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F618;" app:keyMode="2"/> <!-- 😘 -->
+
+    </Row>
+    <Row>
+        <Key app:keyOutputText="&#x1F600;" app:keyLabel="&#x1F600;" app:keyMode="2"/> <!-- 😀 -->
+        <Key app:keyOutputText="&#x1F603;" app:keyLabel="&#x1F603;" app:keyMode="2"/> <!-- 😃 -->
+        <Key app:keyOutputText="&#x1F604;" app:keyLabel="&#x1F604;" app:keyMode="2"/> <!-- 😄 -->
+        <Key app:keyOutputText="&#x1F601;" app:keyLabel="&#x1F601;" app:keyMode="2"/> <!-- 😁 -->
+        <Key app:keyOutputText="&#x1F606;" app:keyLabel="&#x1F606;" app:keyMode="2"/> <!-- 😆 -->
+        <Key app:keyOutputText="&#x1F605;" app:keyLabel="&#x1F605;" app:keyMode="2"/> <!-- 😅 -->
+        <Key app:keyOutputText="&#x1F923;" app:keyLabel="&#x1F923;" app:keyMode="2"/> <!-- 🤣 -->
+        <Key app:keyOutputText="&#x1F602;" app:keyLabel="&#x1F602;" app:keyMode="2"/> <!-- 😂 -->
+        <Key app:keyOutputText="&#x1F642;" app:keyLabel="&#x1F642;" app:keyMode="2"/> <!-- 🙂 -->
+    </Row>
+
+    <Row>
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F643;" app:keyMode="2"/> <!-- 🙃 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1FAE0;" app:keyMode="2"/> <!-- 🫠 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F609;" app:keyMode="2"/> <!-- 😉 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F60A;" app:keyMode="2"/> <!-- 😊 -->
+        <Key app:keyOutputText="&#x1F607;" app:keyLabel="&#x1F607;" app:keyMode="2"/> <!-- 😇 -->
+        <Key app:keyOutputText="&#x1F643;" app:keyLabel="&#x1F970;" app:keyMode="2"/> <!-- 🥰 -->
+        <Key app:keyOutputText="&#x1FAE0;" app:keyLabel="&#x1F60D;" app:keyMode="2"/> <!-- 😍 -->
+        <Key app:keyOutputText="&#x1F609;" app:keyLabel="&#x1F929;" app:keyMode="2"/> <!-- 🤩 -->
+        <Key app:keyOutputText="&#x1F60A;" app:keyLabel="&#x1F618;" app:keyMode="2"/> <!-- 😘 -->
+
+    </Row>
+
+
+</Keyboard>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#02201E"
+    android:layout_gravity="bottom">
+
+    <RelativeLayout
+        android:id="@+id/baseContent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#00000000">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#02201E"
+            android:layout_marginTop="5dp"
+            android:layout_above="@id/keyboardView">
+            <com.admin.keyboard.CandidateView
+                android:id="@+id/candidateView"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:scrollbars="none">
+            </com.admin.keyboard.CandidateView>
+        </LinearLayout>
+
+        <com.admin.keyboard.CustomKeyboardView
+            style="@style/KeyboardView"
+            android:id="@+id/keyboardView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:background="#02201E"
+            android:layout_alignParentBottom="true">
+        </com.admin.keyboard.CustomKeyboardView>
+    </RelativeLayout>
+</FrameLayout>

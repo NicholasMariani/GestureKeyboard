@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/icon"
+    android:layout_width="30dp"
+    android:layout_height="30dp"
+    android:layout_margin="30dp"
+    android:background="@drawable/pref_icon"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentEnd="true"/>

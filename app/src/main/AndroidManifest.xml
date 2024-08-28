@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.admin.keyboard">
+
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/keyboard_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/keyboard_icon"
+        android:theme="@style/Theme.AppCompat">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+<!--            <intent-filter>-->
+<!--                <action android:name="android.intent.action.MAIN" />-->
+<!--                <category android:name="android.intent.category.LAUNCHER" />-->
+<!--            </intent-filter>-->
+        </activity>
+
+        <service
+            android:name=".KeyboardActivity"
+            android:label="Custom Keyboard"
+            android:permission="android.permission.BIND_INPUT_METHOD"
+            android:exported="true">
+            <meta-data
+                android:name="android.view.im"
+                android:resource="@xml/method"/>
+            <intent-filter>
+                <action android:name="android.view.InputMethod"/>
+            </intent-filter>
+        </service>
+
+        <activity android:name=".settings.SettingsActivity"
+            android:exported="true"
+            android:theme="@style/SettingsTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

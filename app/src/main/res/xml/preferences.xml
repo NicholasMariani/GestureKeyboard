@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Settings"
+        android:layout="@layout/preference_header_layout">
+        <Preference
+            android:title="Preferences"
+            android:key="pref_category"
+            android:fragment="com.admin.keyboard.settings.PreferenceSettingsFragment"
+            android:icon="@drawable/pref_icon"
+            android:layout="@layout/preference_item_layout"/>
+        <Preference
+            android:title="Theme"
+            android:key="theme_category"
+            android:fragment="com.admin.keyboard.settings.ThemeSettingsFragment"
+            android:icon="@drawable/theme_icon"
+            android:layout="@layout/preference_item_layout"/>
+        <Preference
+            android:title="Text Correction"
+            android:key="text_category"
+            android:fragment="com.admin.keyboard.settings.PreferenceSettingsFragment"
+            android:icon="@drawable/spellcheck_icon"
+            android:layout="@layout/preference_item_layout"/>
+        <Preference
+            android:title="Gesture Typing"
+            android:key="gesture_category"
+            android:fragment="com.admin.keyboard.settings.PreferenceSettingsFragment"
+            android:icon="@drawable/glide_icon"
+            android:layout="@layout/preference_item_layout"/>
+        <Preference
+            android:key="keyboard_preview"
+            android:icon="@drawable/keyboard_icon"
+            android:layout="@layout/activity_settings"/>
+    </PreferenceCategory>
+</PreferenceScreen>

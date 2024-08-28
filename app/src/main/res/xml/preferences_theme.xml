@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Theme"
+        android:layout="@layout/preference_header_layout">
+        <SwitchPreference
+            android:key="theme"
+            android:title="Theme"
+            android:summary="Enable/Disable Theme"
+            android:defaultValue="true"/>
+    </PreferenceCategory>
+</PreferenceScreen>
